@@ -4,7 +4,7 @@ Biblioteca de Trabalhos de Conclusão de Curso feitos em LaTeX por discentes do 
 Nesta biblioteca encontram-se listados os TCCs em sua versão final de visualização e, quando disponível, o código fonte utilizado.
 O foco dessa biblioteca é a divulgação dos exemplos de TCC feitos com o [Template em LaTeX](https://github.com/caecom/template-tcc-latex-univasf).
 
-Para facilitar a visualização, os TCCs estão organizados em ordem descrescente de ano de depósito, seguido de ordem crescente do nome do autor.
+Para facilitar a visualização, os TCCs estão organizados em ordem decrescente de ano de depósito, seguido de ordem crescente do nome do autor.
 
 Para adicionar seu TCC a esta lista veja o arquivo CONTRIBUTING.md.
 
