@@ -14,6 +14,7 @@ Para adicionar seu TCC a esta lista veja o arquivo CONTRIBUTING.md.
 | ----- |:---------------------------- |:----------------------------- | ------------ | ------------ |
 | 2019  | Daniele da Silva Reis   | DETERMINAÇÃO DE SÓLIDOS SOLÚVEIS TOTAIS EM MANGAS PALMER ATRAVÉS DE PROCESSAMENTO DIGITAL DE IMAGENS | [![versão final][pdf-icon]](pdfs/2019-daniele-silva-reis.pdf) | -
 | 2019  | Esron Datmar da Silva        | USO DA TEORIA DA DISTÂNCIA TRANSACIONAL NA PREDIÇÃO DA EVASÃO NA EAD: O CASO DA UNIVASF.   | [![versão final][pdf-icon]](pdfs/2019-esron-dtmar-da-silva.pdf) | [![código fonte][source-code-icon]](https://github.com/esron/template-tcc-latex-univasf)
+| 2019  | Gustavo Marques de Souza Santos        | DESENVOLVIMENTO DE UM SISTEMA EMBARCADO DISTRIBUÍDO PARA VEÍCULOS OFF-ROAD   | [![versão final][pdf-icon]](pdfs/2019-gustavo-marques-de-souza-santos.pdf) | -
 | 2018  | Gabriel Rafael Gomes | SISTEMA DE INFORMAÇÃO ONLINE PARA LEITURA E ARMAZENAMENTO DE DADOS METEOROLÓGICOS | [![versão final][pdf-icon]](pdfs/2018-gabriel-rafael-gomes.pdf) | -
 | 2017  | João Antonio Pereira Bastos | DOME - Sistema para Domótica | [![versão final][pdf-icon]](pdfs/2017-joão-antonio-pereira-bastos.pdf) | -
 | 2017  | José Matias da Silva Filho | Sistema para monitoramento do consumo de energia elétrica em residências | [![versão final][pdf-icon]](pdfs/2017-josé-matias-da-silva-filho) | -
