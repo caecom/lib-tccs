@@ -8,7 +8,7 @@ Aqui estão algumas diretrizes para ajudá-lo nesse caminho.
 1. [Código de Conduta](#Código-de-conduta)
 2. [Em que contribuir](#Em-que-contribuir)
 3. [Adicionando seu TCC](#Adicionando-seu-TCC)
-4. [Comunidade](#comunidade)
+4. [Comunidade](#Comunidade)
 
 ## Código de Conduta
 
