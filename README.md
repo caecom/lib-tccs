@@ -15,13 +15,14 @@ Para adicionar seu TCC a esta lista veja o [guia de contribuição](https://gith
 | 2019  | Daniele da Silva Reis   | DETERMINAÇÃO DE SÓLIDOS SOLÚVEIS TOTAIS EM MANGAS PALMER ATRAVÉS DE PROCESSAMENTO DIGITAL DE IMAGENS | [![versão final][pdf-icon]](pdfs/2019-daniele-silva-reis.pdf) | -
 | 2019  | Esron Datmar da Silva        | USO DA TEORIA DA DISTÂNCIA TRANSACIONAL NA PREDIÇÃO DA EVASÃO NA EAD: O CASO DA UNIVASF.   | [![versão final][pdf-icon]](pdfs/2019-esron-dtmar-da-silva.pdf) | [![código fonte][source-code-icon]](https://github.com/esron/template-tcc-latex-univasf)
 | 2019  | Gustavo Marques de Souza Santos        | DESENVOLVIMENTO DE UM SISTEMA EMBARCADO DISTRIBUÍDO PARA VEÍCULOS OFF-ROAD   | [![versão final][pdf-icon]](pdfs/2019-gustavo-marques-de-souza-santos.pdf) | -
+| 2019  | Victor Gustavo da Silva Oliveira   | VALIDAÇÃO DE MÉTODO DE DETERMINAÇÃO DE ATRIBUTOS DE QUALIDADE EM UVAS UTILIZANDO TÉCNICAS DE INTELIGÊNCIA ARTIFICIAL | [![versão final][pdf-icon]](pdfs/2019-victor-gustavo-da-silva-oliveira.pdf) | -
 | 2018  | Gabriel Rafael Gomes | SISTEMA DE INFORMAÇÃO ONLINE PARA LEITURA E ARMAZENAMENTO DE DADOS METEOROLÓGICOS | [![versão final][pdf-icon]](pdfs/2018-gabriel-rafael-gomes.pdf) | -
 | 2017  | João Antonio Pereira Bastos | DOME - Sistema para Domótica | [![versão final][pdf-icon]](pdfs/2017-joão-antonio-pereira-bastos.pdf) | -
 | 2017  | José Matias da Silva Filho | Sistema para monitoramento do consumo de energia elétrica em residências | [![versão final][pdf-icon]](pdfs/2017-josé-matias-da-silva-filho) | -
 | 2016  | Hallan Emanuel Ferreira Coelho | DESENVOLVIMENTO DE UM SIMULADOR EMPRESARIAL: módulo de demanda | [![versão final][pdf-icon]](pdfs/2016-hallan-emanuel-ferreira-coelho.pdf) | -
 | 2015  | Delmiro Daladier Sampaio Neto | Otimização de Dispositivos Ópticos Utilizando Algoritmos Bioinspirados | [![versão final][pdf-icon]](pdfs/2015-delmiro-daladier-sampaio-neto.pdf) | -
 
-## Créditos 
+## Créditos
 Os ícones utilizados para versão final e para o código fonte foram obtidos do site [Flaticon](https://www.flaticon.com) e estão licenciados sobre a [Flaticon Basic License](https://file000.flaticon.com/downloads/license/license.pdf).
 
 ![versão final][pdf-icon] Ícone do PDF feito por [Dimitri Miroliubov](https://www.flaticon.com/authors/dimitry-miroliubov) do [www.flaticon.com](https://www.flaticon.com)
