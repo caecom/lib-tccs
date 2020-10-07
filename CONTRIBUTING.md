@@ -31,7 +31,7 @@ Após entender como utilizar o Github para fazer uma Pull Request, você precisa
 
 ### Adicionar o PDF
 
-1. fazer um Fork do repositório.
+1. Fazer um Fork do repositório.
 
 2. Clonar o fork na sua máquina:
 
