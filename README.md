@@ -6,7 +6,7 @@ O foco dessa biblioteca é a divulgação dos exemplos de TCC feitos com o [Temp
 
 Para facilitar a visualização, os TCCs estão organizados em ordem decrescente de ano de depósito, seguido de ordem crescente do nome do autor.
 
-Para adicionar seu TCC a esta lista veja o arquivo CONTRIBUTING.md.
+Para adicionar seu TCC a esta lista veja o [guia de contribuição](https://github.com/caecom/lib-tccs/blob/master/CONTRIBUTING.md).
 
 ## Índice da Biblioteca de TCCs
 
