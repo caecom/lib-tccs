@@ -12,7 +12,7 @@ Aqui estão algumas diretrizes para ajudá-lo nesse caminho.
 
 ## Código de Conduta
 
-Este projeto adota o código de conduta do [Dev-Sertão](https://github.com/devsertao) e nós esperamos que os participantes concordem com o mesmo.
+Este projeto adota o código de conduta do [DevSertão](https://github.com/devsertao) e nós esperamos que os participantes concordem com o mesmo.
 Por favor, leia o [Código de Conduta](https://github.com/devsertao/quem-somos/blob/main/C%C3%93DIGO%20DE%20CONDUTA.md) para que você possa entender quais ações serão ou não toleradas.
 
 ## Em que contribuir?
